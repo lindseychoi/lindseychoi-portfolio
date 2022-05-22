@@ -1,13 +1,15 @@
 import React from 'react';
 
 function NavBar({ currentPage, handlePageChange }) {
+
   return (
-    <ul className="nav nav-tabs">
-      <li className="nav-item">
+    <ul className="customNav nav">
+      <li className="buttonText">
         <a
           href="#home"
           onClick={() => handlePageChange('Home')}
           className={currentPage === 'Home' ? 'nav-link active' : 'nav-link'}
+          style={{color:'white'}}
         >
           Home
         </a>
@@ -17,6 +19,7 @@ function NavBar({ currentPage, handlePageChange }) {
           href="#about"
           onClick={() => handlePageChange('About')}
           className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}
+          style={{color:'white'}}
         >
           About
         </a>
@@ -26,6 +29,7 @@ function NavBar({ currentPage, handlePageChange }) {
           href="#projects"
           onClick={() => handlePageChange('Projects')}
           className={currentPage === 'Projects' ? 'nav-link active' : 'nav-link'}
+          style={{color:'white'}}
         >
           Projects
         </a>
@@ -35,6 +39,7 @@ function NavBar({ currentPage, handlePageChange }) {
           href="#contact"
           onClick={() => handlePageChange('Contact')}
           className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}
+          style={{color:'white'}}
         >
           Contact
         </a>

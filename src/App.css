@@ -1,0 +1,122 @@
+.profilepic {
+  width: 12%
+}
+
+.customNav {
+  top: 25%;
+  left: 3%;
+  font-size: 25px;
+  width: 100%;
+  margin: 0;
+  background-color: #D83F87;
+}
+
+
+
+
+
+
+/* earlier code to analyze */
+/* @import url('https://fonts.googleapis.com/css2?family=Elsie+Swash+Caps:wght@900&family=Nanum+Gothic&family=Russo+One&family=Square+Peg&family=Send+Flowers&display=swap'); */
+
+/* * {
+    border-radius: 0 !important;
+    border: none !important;
+  }
+  
+  .colors-behind {
+    background-color: #2A1B3D;
+  }
+  
+  .btn-success {
+    background-color: #D83F87 !important;
+    border: none !important;
+    border-radius: 0 !important;
+    font-family: 'Russo One', sans-serif;
+  }
+  
+  .card-title {
+    font-family: 'Russo One', sans-serif;
+    text-align: center;
+    color: #2A1B3D;
+  }
+  
+  .title {
+    font-size: 100px;
+    color: whitesmoke;
+    text-align: left !important;
+    left: 1%;
+    font-family: 'Elsie Swash Caps', cursive;
+  }
+  
+  h2 {
+    font-family: 'Russo One', sans-serif;
+    color: whitesmoke;
+    text-align: center;
+  }
+  
+  
+  nav {
+      position: relative;
+      top: 25%;
+      left: 3%;
+      font-size: 25px;
+      flex-direction: column;
+  }
+  
+  .card-body {
+    display: flex;
+    flex-direction: column; 
+    bottom: 0px;
+  }
+  
+  .about-me {
+    left: 3%;
+  }
+  
+  button {
+    border-radius: 0 !important;
+  }
+  
+  #button-bottom{
+    position: absolute;
+    bottom: 10px;
+    width: 80%;
+    left: 19%;
+  }
+  
+  #contact-button {
+    position: relative;
+    bottom: 10px;
+    width: 10%;
+    left: 44.5%;
+  
+  }
+  
+  body {
+    background-color: #44318D !important;
+  }
+  
+  .btn {
+    display: block;
+    border: none;
+    font-size: 12px;
+    cursor: pointer;
+  }
+  
+  .project-buttons{
+    margin-right: 40px;
+    margin-bottom: 12px;
+    margin-top: 12px;
+  }
+  
+  @media screen and (max-width: 768px) 
+    {
+      h2 {
+        background: #772014;
+      }
+      .card {
+        max-width: 100%;
+      }
+    }
+   */

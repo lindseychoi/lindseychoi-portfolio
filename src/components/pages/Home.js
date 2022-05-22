@@ -1,9 +1,10 @@
 import React from 'react';
+import ProfilePic from '../../assets/blackandwhite-profilepic.jpg';
 
 export default function Home() {
   return (
     <div>
-      <h1>Home Page</h1>
+      <img src={ProfilePic} className="profilepic" alt="picture of me" />
       <p>
         My Portfolio
       </p>
