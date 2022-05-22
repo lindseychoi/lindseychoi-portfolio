@@ -7,9 +7,9 @@ export default function Projects() {
   return (
     <div>
       <div className="container">
-        <div className="row row-cols-2">
+        <div className="row row-cols-2 gx-3">
 
-          <div className="col-4">
+          <div className="col-4 pt-4">
             <div className="card h-100" style={{ width: "25rem" }}>
               <img src={Hike} className="card-img-top"
                 alt="Screenshot of the hiking application." />
@@ -30,7 +30,7 @@ export default function Projects() {
             </div>
           </div>
 
-          <div className="col-4">
+          <div className="col-4 pt-4">
             <div className="card h-100" style={{ width: "25rem" }}>
               <img src={Weather} className="card-img-top"
                 alt="Screenshot of the weather tracking application." />
@@ -51,7 +51,7 @@ export default function Projects() {
             </div>
           </div>
 
-          <div className="col-4">
+          <div className="col-4 pt-4">
             <div className="card h-100" style={{ width: "25rem" }}>
               <img src={Accretion} className="card-img-top"
                 alt="Screenshot of the multiple choice quiz application." />
