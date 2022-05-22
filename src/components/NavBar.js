@@ -3,8 +3,8 @@ import React from 'react';
 function NavBar({ currentPage, handlePageChange }) {
 
   return (
-    <ul className="customNav nav">
-      <li className="buttonText">
+    <ul className="customNav nav justify-content-center">
+      <li className="nav-item">
         <a
           href="#home"
           onClick={() => handlePageChange('Home')}
