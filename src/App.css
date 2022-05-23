@@ -5,6 +5,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;    
 }
+  
 .customNav {
   top: 25%;
   left: 3%;
@@ -26,6 +27,11 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.aboutPic {
+  position: relative;
+  width: 70%;
 }
 
 .welcomeHome {

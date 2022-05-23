@@ -1,5 +1,5 @@
 import React from 'react';
-import ProfilePic from '../../assets/blackandwhite-profilepic.jpg';
+import ShoesPic from '../../assets/cropped-shoes-pic.jpg';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default function Home() {
@@ -9,7 +9,7 @@ export default function Home() {
 
         <div className="row g-3 mt-0 pt-3">
           <div>
-            <img src={ProfilePic} className="profilepic" alt="picture of me" />
+            <img src={ShoesPic} className="profilepic" alt="picture of me" />
           </div>
         </div>
 
