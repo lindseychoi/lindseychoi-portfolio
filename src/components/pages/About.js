@@ -31,10 +31,21 @@ export default function About() {
                                 </div>
                             </div>
                         </div>
+                        <div className="card card-padding">
+                            <div className="card-body">
+                                <div className="card-text">
+                                    Front End Skills: HTML 5, CSS 3, JavaScript, React, MVC, Webpack, JSX
+
+                                    Back End Skills:  NodeJS, JavaScript, MySQL, JSON, OOP, MongoDB, Mongoose, MERN Stack, Express, CRUD, GraphQL, Apollo, RESTful web services, API's, MySQL
+                                    
+                                    Technologies: Git, GitHub, Insomnia, MongoDB Compass, Sandbox, Heroku, Lighthouse, VS Code                                
+                                </div>
+                            </div>
+                        </div>
                     </div>
 
                     <div className="col-md-4 pt-4">
-                        <img src={picProfile} className="aboutPic" alt="picture of me" />
+                        <img src={picProfile} className="aboutPic" alt="picture of me on a mountain" />
                     </div>
 
                 </div>

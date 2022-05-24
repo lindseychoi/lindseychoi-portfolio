@@ -3,19 +3,66 @@ import React from 'react';
 export default function Contact() {
   return (
     <div>
-      <div class="card text-center">
-        <div class="card-body">
-          <h5>Contact Me</h5>
-          <p>(719) 641-6836</p>
-          <p>lindsey.e.choi@gmail.com</p>
-          <div id="contact-button" class="btn-group" role="group" aria-label="Basic example">
-            <button type="button" class="project-buttons btn btn-success btn-small"
-              onclick="window.location.href='https://www.linkedin.com/in/lindseychoi/';">LinkedIn</button>
-            <button type="button" class="project-buttons btn btn-success btn-small"
-              onclick="window.location.href='https://www.github.com/lindseychoi';">GitHub</button>
+      <div className="container">
+        <div className="col-md-12 pt-4">
+          <div className="card card-padding-2">
+            <div className="row">
+
+              <div className="col-md-12 mb-md-0 mb-5">
+                <form id="contact-form" name="contact-form" action="mail.php" method="POST">
+
+                  <div className="row">
+
+                    <div className="col-md-6">
+                      <div className="md-form mb-0">
+                        <input type="text" id="name" name="name" className="form-control"></input>
+                        <label for="name" className="">name</label>
+                      </div>
+                    </div>
+
+                    <div className="col-md-6">
+                      <div className="md-form mb-0">
+                        <input type="text" id="email" name="email" className="form-control"></input>
+                        <label for="email" className="">email</label>
+                      </div>
+                    </div>
+
+                  </div>
+
+                  <div className="row">
+                    <div className="col-md-12">
+                      <div className="md-form mb-0">
+                        <input type="text" id="subject" name="subject" className="form-control"></input>
+                        <label for="subject" className="">subject</label>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div className="row">
+
+                    <div className="col-md-12">
+
+                      <div className="md-form">
+                        <textarea type="text" id="message" name="message" rows="2" className="form-control md-textarea"></textarea>
+                        <label for="message">message</label>
+                      </div>
+
+                    </div>
+                  </div>
+
+                </form>
+
+                <div className="text-center text-md-left">
+                  <a className="btn btn-success" onclick="document.getElementById('contact-form').submit();">Send</a>
+                </div>
+                <div className="status"></div>
+              </div>
+            </div>
+
           </div>
         </div>
-    </div>
+      </div>
+
     </div>
   );
 }

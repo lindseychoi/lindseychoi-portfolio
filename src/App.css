@@ -5,7 +5,15 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;    
 }
-  
+
+.card-padding {
+  margin-top: 15px;
+}
+
+.card-padding-2 {
+  padding: 15px;
+}
+
 .customNav {
   top: 25%;
   left: 3%;
@@ -44,6 +52,10 @@
   font-size: 23px;
 }
 
+.btn-success {
+  background-color: #D83F87 !important;
+  border: none !important;
+}
 
 
 /* earlier code to analyze */
@@ -62,7 +74,6 @@
     background-color: #D83F87 !important;
     border: none !important;
     border-radius: 0 !important;
-    font-family: 'Russo One', sans-serif;
   }
   
   .card-title {
