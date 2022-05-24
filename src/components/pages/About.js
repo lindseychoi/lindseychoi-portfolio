@@ -14,20 +14,15 @@ export default function About() {
                         <div className="card">
                             <div className="card-body">
                                 <div className="card-text">
-                                    I am an aspiring developer currently enrolled in the DU Programming Bootcamp. I am
-                                    excited to
-                                    learn
-                                    new
-                                    skills
-                                    during my time in the program and look forward to receiving my certificate on June 13, 2022. My
-                                    programming
-                                    skills include experience with: HTML, CSS, JavaScript, API's, and Node. My professional
-                                    history includes a decade of experience in education. My time in that field helped me develop
-                                    skills
-                                    such as
-                                    communication, teamwork, crisis management, flexibility, and professionalism. I look forward to
-                                    hearing
-                                    from you!
+                                    I am an aspiring developer currently enrolled in the DU Programming Bootcamp. I am excited to
+                                    learn new skills
+                                    during my time in the program and look forward to receiving my certificate on June 14, 2022. I have always enjoyed gaming and technology, and coding is refreshing, technical and fun. 
+                                    This career allows me to continue learning, and I particularly like working hard to stay on top of the latest technologies and procedures. 
+                                    Before programming, I spent most of my career in education. I graduated from Colorado State University in 2011 with a Bachelor's in English Literature and was a teacher for nine years.
+                                    Most recently, I tailored technology for individual students, other teachers, and myself to help with the difficult transition back and forth from e-learning to in-person learning.
+                                    I had a lot of responsibility for structuring online learning 
+                                    for students with various platforms and applications because of the COVID pandemic. 
+                                    That really helped me find my passion in programming, and I'm loving the switch to the technical side!  
                                 </div>
                             </div>
                         </div>
