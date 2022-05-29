@@ -96,12 +96,13 @@ export default function Projects() {
 
           <div className="col-md-4 pt-4">
             <div className="card h-100" style={{ width: "25rem" }}>
-            <iframe className="card-img-top embed-responsive" src="https://drive.google.com/file/d/1ZDz6YnTHIwUirYsphWNEMhYyvCAdqe6A/preview"
+            <iframe className="card-img-top embed-responsive" src="https://drive.google.com/file/d/1ZDz6YnTHIwUirYsphWNEMhYyvCAdqe6A/preview" width="286" height="200"
                 alt="Screenshot of the multiple choice quiz application."></iframe>
               <div className="card-body">
               <h5 className="card-title"><a href="https://github.com/lindseychoi?tab=repositories">ReadMe Generator</a></h5>
                 <div className="card-text">
-                This project is to help users create a quality readme file in less time? Simply follow the installation instructions, type in the answers to the questions from Inquirer, and the readme will be generated and ready to go. 
+                This project is to help users create a quality readme file in less time? Simply follow the installation instructions, 
+                type in the answers to the questions from Inquirer, and the readme will be generated and ready to go. 
                 </div>
               </div>
             </div>
