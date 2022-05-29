@@ -71,9 +71,9 @@ export default function Contact() {
               </div>
             </div>
             <div className="col-md-12 pt-4 text-center">
-              <a href="https://github.com/lindseychoi" className="fa-2xl logo-padding"><FontAwesomeIcon icon={faGithub} /></a>
-              <a href="https://linkedin.com/in/lindseychoi/" className="fa-2xl logo-padding"><FontAwesomeIcon icon={faLinkedin} /></a>
-              <a href="https://instagram.com/_lindseychoi_/" className="fa-2xl logo-padding"><FontAwesomeIcon icon={faInstagram} /></a>
+              <a href="https://github.com/lindseychoi" className="fa-2xl fa-cog fa-flag logo-padding"><FontAwesomeIcon icon={faGithub} /></a>
+              <a href="https://linkedin.com/in/lindseychoi/" className="fa-2xl fa-cog fa-flag logo-padding"><FontAwesomeIcon icon={faLinkedin} /></a>
+              <a href="https://instagram.com/_lindseychoi_/" className="fa-2xl fa-cog fa-flag logo-padding"><FontAwesomeIcon icon={faInstagram} /></a>
             </div>
 
           </div>

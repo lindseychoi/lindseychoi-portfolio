@@ -6,6 +6,23 @@
   -moz-osx-font-smoothing: grayscale;    
 }
 
+.fa-cog {
+  color: black;
+}
+
+.fa-flag:hover {
+  color: #D83F87;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+a:hover {
+  color: #D83F87;
+}
 .card-padding {
   margin-top: 15px;
 }
