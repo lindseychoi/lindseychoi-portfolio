@@ -14,6 +14,11 @@
   padding: 15px;
 }
 
+.logo-padding {
+  position:relative;
+  padding: 50px;
+}
+
 .customNav {
   top: 25%;
   left: 3%;
@@ -56,7 +61,6 @@
   background-color: #D83F87 !important;
   border: none !important;
 }
-
 
 /* earlier code to analyze */
 /* @import url('https://fonts.googleapis.com/css2?family=Elsie+Swash+Caps:wght@900&family=Nanum+Gothic&family=Russo+One&family=Square+Peg&family=Send+Flowers&display=swap'); */

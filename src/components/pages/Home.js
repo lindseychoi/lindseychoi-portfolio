@@ -9,7 +9,7 @@ export default function Home() {
 
         <div className="row g-3 mt-0 pt-3">
           <div>
-            <img src={ShoesPic} className="profilepic" alt="picture of my shoes" />
+            <img src={ShoesPic} className="profilepic" alt="my shoes" />
           </div>
         </div>
 

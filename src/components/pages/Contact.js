@@ -1,5 +1,9 @@
 import React from 'react';
 import picIzzy from '../../assets/izzy-pic.jpg';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faGithub } from '@fortawesome/free-brands-svg-icons'
+import { faLinkedin } from '@fortawesome/free-brands-svg-icons'
+import { faInstagram } from '@fortawesome/free-brands-svg-icons'
 
 export default function Contact() {
   return (
@@ -8,8 +12,10 @@ export default function Contact() {
 
         <div className="row">
 
-          <div className="col-md-7 pt-4">
-            <div className="card card-padding-2">
+        <div className="col-md-2 pt-4"></div>
+
+          <div className="col-md-5 pt-4">
+            <div className="card card-padding-2 height-100">
               <div className="row">
 
                 <div className="col-md-12 mb-md-0 mb-5">
@@ -61,15 +67,23 @@ export default function Contact() {
                   </div>
                   <div className="status"></div>
                 </div>
+
               </div>
             </div>
+            <div className="col-md-12 pt-4 text-center">
+              <a href="https://github.com/lindseychoi" className="fa-2xl logo-padding"><FontAwesomeIcon icon={faGithub} /></a>
+              <a href="https://linkedin.com/in/lindseychoi/" className="fa-2xl logo-padding"><FontAwesomeIcon icon={faLinkedin} /></a>
+              <a href="https://instagram.com/_lindseychoi_/" className="fa-2xl logo-padding"><FontAwesomeIcon icon={faInstagram} /></a>
+            </div>
+
           </div>
 
-          <div className="col-md-5 pt-4">
+          <div className="col-md-4 pt-4">
             <img src={picIzzy} className="aboutPic" alt="picture of izzy the dog" />
           </div>
-          
+
         </div>
+
       </div>
     </div>
   );

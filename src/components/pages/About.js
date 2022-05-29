@@ -40,7 +40,7 @@ export default function About() {
                     </div>
 
                     <div className="col-md-4 pt-4">
-                        <img src={picProfile} className="aboutPic" alt="picture of me on a mountain" />
+                        <img src={picProfile} className="aboutPic" alt="me on a mountain" />
                     </div>
 
                 </div>
