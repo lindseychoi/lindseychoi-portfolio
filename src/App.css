@@ -77,6 +77,7 @@ h5 {
 .aboutPic {
   position: relative;
   width: 70%;
+  margin-left: 38px;
 }
 
 .welcomeHome {
@@ -90,9 +91,24 @@ h5 {
 }
 
 .btn-success {
-  background-color: #D83F87 !important;
-  border: none !important;
+  background-color: #D83F87;
+  border: none;
 }
+
+.btn-success:hover, .btn-success:focus, .btn-success:active, .btn-success.active, .open .dropdown-toggle.btn-success {
+  background-color: black !important;
+  color: white !important;
+  border-color:white !important;
+}
+
+.btn:focus,.btn:active, .open {
+  outline: none !important;
+  box-shadow: none;
+}
+.resume {
+  margin-top: 25px !important;
+}
+
 
 /* earlier code to analyze */
 /* @import url('https://fonts.googleapis.com/css2?family=Elsie+Swash+Caps:wght@900&family=Nanum+Gothic&family=Russo+One&family=Square+Peg&family=Send+Flowers&display=swap'); */
