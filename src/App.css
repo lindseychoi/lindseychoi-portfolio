@@ -6,6 +6,11 @@
   -moz-osx-font-smoothing: grayscale;    
 }
 
+.nav-link:hover {
+  background-color: white;
+  color: #D83F87 !important;
+}
+
 .fa-cog {
   color: black;
 }
