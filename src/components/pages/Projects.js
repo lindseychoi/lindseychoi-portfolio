@@ -16,7 +16,7 @@ export default function Projects() {
               <a href="https://accretion2022.herokuapp.com/"><img src={Accretion} className="card-img-top"
                 alt="usgs accretion application." /></a>
               <div className="card-body">
-                <h5 className="card-title"><a href="https://github.com/lindseychoi?tab=repositories">Accretion</a></h5>
+                <h5 className="card-title"><a href="https://github.com/lindseychoi/accretion">Accretion</a></h5>
                 <div className="card-text">
                   Worked with a team to create an application for the USGS to collect paperwork from the offices he
                   works with.
