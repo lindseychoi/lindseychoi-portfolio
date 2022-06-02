@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.760bfbd4.chunk.css",
+    "main.js": "/static/js/main.a64bfd83.chunk.js",
+    "main.js.map": "/static/js/main.a64bfd83.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.73912616.js",
+    "runtime-main.js.map": "/static/js/runtime-main.73912616.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.af7b76ab.chunk.js": "/static/js/2.af7b76ab.chunk.js",
+    "static/js/2.af7b76ab.chunk.js.map": "/static/js/2.af7b76ab.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.760bfbd4.chunk.css.map": "/static/css/main.760bfbd4.chunk.css.map",
+    "static/js/2.af7b76ab.chunk.js.LICENSE.txt": "/static/js/2.af7b76ab.chunk.js.LICENSE.txt",
+    "static/media/Lindsey-Choi-Resume.c4b22dfe.pdf": "/static/media/Lindsey-Choi-Resume.c4b22dfe.pdf",
+    "static/media/accretion-screenshot.5c95c16a.png": "/static/media/accretion-screenshot.5c95c16a.png",
+    "static/media/blog-that-stuff.adfdecf2.jpg": "/static/media/blog-that-stuff.adfdecf2.jpg",
+    "static/media/cropped-picprofile-bw.82711f85.JPEG": "/static/media/cropped-picprofile-bw.82711f85.JPEG",
+    "static/media/cropped-shoes-pic.57623642.jpg": "/static/media/cropped-shoes-pic.57623642.jpg",
+    "static/media/izzy-pic.244327fb.jpg": "/static/media/izzy-pic.244327fb.jpg",
+    "static/media/multiple-choice-screenshot.35d3157f.jpg": "/static/media/multiple-choice-screenshot.35d3157f.jpg",
+    "static/media/take-a-hike-screenshot.c4621b11.jpg": "/static/media/take-a-hike-screenshot.c4621b11.jpg",
+    "static/media/weather-tracker-screenshot.26b127be.jpg": "/static/media/weather-tracker-screenshot.26b127be.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73912616.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.af7b76ab.chunk.js",
+    "static/css/main.760bfbd4.chunk.css",
+    "static/js/main.a64bfd83.chunk.js"
+  ]
+}
