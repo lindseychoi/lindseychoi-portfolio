@@ -17,9 +17,9 @@ export default function About() {
                             <div className="card-body">
                                 <h5 className="card-title text-center">Summary</h5>
                                 <div className="card-text">
-                                    I am an aspiring developer currently enrolled in the DU Programming Bootcamp. I am excited to
-                                    learn new skills
-                                    during my time in the program and look forward to receiving my certificate on June 14, 2022. I have always enjoyed gaming and technology, and coding is refreshing, technical and fun.
+                                    I am a full-stack developer graduating from DU Programming Bootcamp on June 14th, 2022. I am excited to
+                                    learn and apply my skills to a variety of projects and technologies in my new career.
+                                    I have always enjoyed gaming and technology, and coding is refreshing, technical and fun.
                                     This career allows me to continue learning, and I particularly like working hard to stay on top of the latest technologies and procedures.
                                     Before programming, I spent most of my career in education. I graduated from Colorado State University in 2011 with a Bachelor's in English Literature and was a teacher for nine years.
                                     Most recently, I tailored technology for individual students, other teachers, and myself to help with the difficult transition back and forth from e-learning to in-person learning.
@@ -47,7 +47,7 @@ export default function About() {
                                 <div className="card-body">
                                     <h5 className="card-title text-center">Skills</h5>
                                     <div className="card-text text-center">
-                                        <p>Verbal and written communication, presenting and instructing, coaching, team player, adapts quickly</p>
+                                        <p>Verbal and written communication, presenting and instructing, coaching, team player, adapts quickly, planning and implementing curriculum</p>
                                     </div>
                                 </div>
                             </div>
@@ -99,7 +99,7 @@ export default function About() {
 
                     <div className="row row-cols-1">
                         <div className="col-md-12 pt-4 text-center resume">
-                            <button className=" btn btn-success btn-block shadow-none" href = {Pdf} target = "_blank">Download a PDF of my Resumé</button>
+                            <a className="btn btn-success btn-block shadow-none" href={Pdf} download> Download a PDF of my Resumé</a>
                         </div>
                     </div>
 
