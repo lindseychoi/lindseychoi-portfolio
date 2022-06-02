@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/lindseychoi-portfolio/static/css/main.760bfbd4.chunk.css",
-    "main.js": "/lindseychoi-portfolio/static/js/main.a64bfd83.chunk.js",
-    "main.js.map": "/lindseychoi-portfolio/static/js/main.a64bfd83.chunk.js.map",
+    "main.css": "/lindseychoi-portfolio/static/css/main.5da37a4b.chunk.css",
+    "main.js": "/lindseychoi-portfolio/static/js/main.4f713544.chunk.js",
+    "main.js.map": "/lindseychoi-portfolio/static/js/main.4f713544.chunk.js.map",
     "runtime-main.js": "/lindseychoi-portfolio/static/js/runtime-main.0a4cf1a1.js",
     "runtime-main.js.map": "/lindseychoi-portfolio/static/js/runtime-main.0a4cf1a1.js.map",
     "static/css/2.0a9ec390.chunk.css": "/lindseychoi-portfolio/static/css/2.0a9ec390.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.af7b76ab.chunk.js.map": "/lindseychoi-portfolio/static/js/2.af7b76ab.chunk.js.map",
     "index.html": "/lindseychoi-portfolio/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/lindseychoi-portfolio/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.760bfbd4.chunk.css.map": "/lindseychoi-portfolio/static/css/main.760bfbd4.chunk.css.map",
+    "static/css/main.5da37a4b.chunk.css.map": "/lindseychoi-portfolio/static/css/main.5da37a4b.chunk.css.map",
     "static/js/2.af7b76ab.chunk.js.LICENSE.txt": "/lindseychoi-portfolio/static/js/2.af7b76ab.chunk.js.LICENSE.txt",
     "static/media/Lindsey-Choi-Resume.c4b22dfe.pdf": "/lindseychoi-portfolio/static/media/Lindsey-Choi-Resume.c4b22dfe.pdf",
     "static/media/accretion-screenshot.5c95c16a.png": "/lindseychoi-portfolio/static/media/accretion-screenshot.5c95c16a.png",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.0a4cf1a1.js",
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.af7b76ab.chunk.js",
-    "static/css/main.760bfbd4.chunk.css",
-    "static/js/main.a64bfd83.chunk.js"
+    "static/css/main.5da37a4b.chunk.css",
+    "static/js/main.4f713544.chunk.js"
   ]
 }
