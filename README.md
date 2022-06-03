@@ -12,6 +12,7 @@ GitHub Repository Link: https://github.com/lindseychoi/lindseychoi-portfolio
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contact Me](#contact-me)
+- [Credits](#credits)
 
 ### Screenshots:
 
@@ -28,6 +29,11 @@ GitHub Repository Link: https://github.com/lindseychoi/lindseychoi-portfolio
 
 ## Usage
 The purpose of this application is to show potential employers and current team my skills and experiences and what I bring to the table.
+
+## Credits
+Thanks to DanielMrva for showing me this fantastic article by Andy Bell to help with responsive text: 
+
+https://css-tricks.com/consistent-fluidly-scaling-type-and-spacing/.
 
 ## Contact Me
 

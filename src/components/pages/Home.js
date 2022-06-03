@@ -7,17 +7,22 @@ export default function Home() {
     <div>
       <div className="container">
 
-        <div className="row g-3 mt-0 pt-3">
+        <div className="row-cols-1 g-3 mt-0 pt-3">
           <div>
             <img src={ShoesPic} className="profilepic" alt="my shoes" />
           </div>
         </div>
 
-        <div className="row g-3 mt-0 pt-3">
+        <div className="row-cols-1 g-3 mt-0 pt-3">
           <div className="welcomeHome">
-            <p>
-              Welcome to my portfolio! My name is Lindsey Choi, and I'm a full-stack developer in Colorado Springs. Take a look at my projects and skills, and feel free to contact me for more information!
-            </p>
+            <h5>
+              Welcome to my portfolio! 
+            </h5>
+            <h5>
+            My name is Lindsey Choi, and I'm a full-stack developer in Colorado Springs. 
+            Take a look at my projects and skills, and feel free to contact me for more 
+            information!
+            </h5>
           </div>
         </div>
 
