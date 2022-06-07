@@ -2,7 +2,7 @@ import { faCss3, faGithub, faGitSquare, faHtml5, faJs, faNodeJs, faReact } from 
 import React from 'react';
 import picProfile from '../../assets/cropped-picprofile-bw.JPEG';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import Pdf from '../../assets/Lindsey-Choi-Resume.pdf';
+import Pdf from '../../assets/Lindsey_Choi_Resume.PDF';
 
 export default function About() {
     return (
