@@ -95,8 +95,8 @@ h5 {
 
 .profilepic {
   position: relative;
-  width: 50%;
-  border-radius: 15%;
+  width: 75%;
+  border-radius: 50%;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -159,7 +159,7 @@ h5 {
 
 @media(max-width: 775px) {
   .mediaquerycenter {
-    width: 75%;
+    width: 92%;
     position: relative;
     display: block;
     margin-left: auto;
