@@ -2,7 +2,7 @@ import { faCss3, faGithub, faGitSquare, faHtml5, faJs, faNodeJs, faReact } from 
 import React from 'react';
 import picProfile from '../../assets/cropped-picprofile-bw.JPEG';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import Pdf from '../../assets/Lindsey_Choi_Resume.PDF';
+import Pdf from '../../assets/lindsey-e-choi-resume-2022.pdf';
 
 export default function About() {
     return (
@@ -17,11 +17,11 @@ export default function About() {
                             <div className="card-body">
                                 <h5 className="card-title text-center">Summary</h5>
                                 <div className="card-text">
-                                    I am a full-stack developer graduating from DU Programming Bootcamp on June 14th, 2022. I am excited to
-                                    learn and apply my skills to a variety of projects and technologies in my new career.
+                                    I am a full-stack developer that has recently graduated from the University of Denver Full Stack Bootcamp. I am excited to
+                                    learn and apply my skills to a variety of projects and technologies.
                                     I have always enjoyed gaming and technology, and coding is refreshing, technical and fun.
                                     This career allows me to continue learning, and I particularly like working hard to stay on top of the latest technologies and procedures.
-                                    Before programming, I spent most of my career in education. I graduated from Colorado State University in 2011 with a Bachelor's in English Literature and was a teacher for nine years.
+                                    Before coding, I spent most of my career in education. I graduated from Colorado State University in 2011 with a Bachelor's in English Literature and was a teacher for nine years.
                                     Most recently, I tailored technology for individual students, other teachers, and myself to help with the difficult transition back and forth from e-learning to in-person learning.
                                     I had a lot of responsibility for structuring online learning
                                     for students with various platforms and applications because of the COVID pandemic.
