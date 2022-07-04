@@ -12,7 +12,7 @@ export default function Projects() {
         <div className="row row-cols-1 gx-3">
 
           <div className="col-md-4 pt-4">
-            <div className="card h-100" style={{ width: "25rem" }}>
+            <div className="card h-100 mediaquerycenter" style={{ width: "25rem" }}>
               <a href="https://accretion2022.herokuapp.com/"><img src={Accretion} className="card-img-top"
                 alt="usgs accretion application." /></a>
               <div className="card-body">
@@ -29,7 +29,7 @@ export default function Projects() {
           </div>
 
           <div className="col-md-4 pt-4">
-            <div className="card h-100" style={{ width: "25rem" }}>
+            <div className="card h-100 mediaquerycenter" style={{ width: "25rem" }}>
             <iframe className="card-img-top embed-responsive" src="https://drive.google.com/file/d/1oC29c4dQB4w6W2rDgFDm_JAHG5aGQkMT/preview" width="286" height="200"
                 alt="e-commerce backend"></iframe>
               <div className="card-body">
@@ -44,7 +44,7 @@ export default function Projects() {
 
 
           <div className="col-md-4 pt-4">
-            <div className="card h-100" style={{ width: "25rem" }}>
+            <div className="card h-100 mediaquerycenter" style={{ width: "25rem" }}>
               <a href="https://lindseychoi.github.io/weather-tracker/"><img src={Weather} className="card-img-top"
                 alt="weather tracking application." /></a>
               <div className="card-body">
@@ -65,7 +65,7 @@ export default function Projects() {
         <div className="row row-cols-1 gx-3">
 
           <div className="col-md-4 pt-4">
-            <div className="card h-100" style={{ width: "25rem" }}>
+            <div className="card h-100 mediaquerycenter" style={{ width: "25rem" }}>
               <a href="https://that-blog.herokuapp.com/"><img src={Blog} className="card-img-top"
                 alt="blog that stuff" /></a>
               <div className="card-body">
@@ -78,7 +78,7 @@ export default function Projects() {
           </div>
 
           <div className="col-md-4 pt-4">
-            <div className="card h-100" style={{ width: "25rem" }}>
+            <div className="card h-100 mediaquerycenter" style={{ width: "25rem" }}>
               <a href="https://lindseychoi.github.io/project-1-DU/"><img src={Hike} className="card-img-top"
                 alt="hiking application." /></a>
               <div className="card-body">
@@ -93,7 +93,7 @@ export default function Projects() {
           </div>
 
           <div className="col-md-4 pt-4">
-            <div className="card h-100" style={{ width: "25rem" }}>
+            <div className="card h-100 mediaquerycenter" style={{ width: "25rem" }}>
               <iframe className="card-img-top embed-responsive" src="https://drive.google.com/file/d/1ZDz6YnTHIwUirYsphWNEMhYyvCAdqe6A/preview" width="286" height="200"
                 alt="readme generator"></iframe>
               <div className="card-body">
@@ -111,7 +111,7 @@ export default function Projects() {
           <div className="row row-cols-1 gx-3">
 
             <div className="col-md-4 pt-4">
-              <div className="card h-100" style={{ width: "25rem" }}>
+              <div className="card h-100 mediaquerycenter" style={{ width: "25rem" }}>
               <iframe className="card-img-top embed-responsive" src="https://drive.google.com/file/d/1KpSLsZqk6RhZN8jA2a7co0WvyJsI_OXg/preview" width="286" height="200"
                   alt="socialize api"></iframe>
                 <div className="card-body">
@@ -126,7 +126,7 @@ export default function Projects() {
             </div>
 
             <div className="col-md-4 pt-4">
-            <div className="card h-100" style={{ width: "25rem" }}>
+            <div className="card h-100 mediaquerycenter" style={{ width: "25rem" }}>
               <a href="https://lindseychoi.github.io/multiple-choice/"><img src={Quiz} className="card-img-top"
                 alt="multiple choice application" /></a>
               <div className="card-body">
@@ -141,7 +141,7 @@ export default function Projects() {
           </div>
 
             <div className="col-md-4 pt-4">
-              <div className="card h-100" style={{ width: "25rem" }}>
+              <div className="card h-100 mediaquerycenter" style={{ width: "25rem" }}>
                 <iframe className="card-img-top embed-responsive" src="https://drive.google.com/file/d/1JjqkiOplSQIkiboN70meQVpSUBHTizFp/preview" width="286" height="200"
                   alt="employee database"></iframe>
                 <div className="card-body">

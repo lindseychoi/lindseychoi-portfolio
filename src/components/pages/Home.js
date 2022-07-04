@@ -9,20 +9,22 @@ export default function Home() {
       <div className="container">
         <div className="row row-cols-1">
 
-            <div className="col-md-12 pt-4">
+          <div className="col-md-12 pt-4">
             <div className="welcomeHome">
-                <h5>
-                  Welcome to my portfolio! I'm Lindsey Choi, and I'm a full-stack developer in Colorado Springs.
-                </h5>
-              </div>
+              <h5>
+                Welcome to my portfolio! I'm Lindsey Choi, and I'm a full-stack developer in Colorado Springs.
+              </h5>
             </div>
+          </div>
 
-          <div className="col-md-6 pt-4">
-            <img src={linkedInPhoto} className="profilepic" alt="me in a pink jacket" />
+          <div className="col-md-6 pt-4 mediaquerycenter">
+            <div className="mediaquerycenter">
+              <img src={linkedInPhoto} className="profilepic mediaquerycenter" alt="me in a pink jacket" />
+            </div>
           </div>
 
           <div className="col-md-6 pt-4">
-            <div className="card h-100 highlighted" style={{ width: "25rem" }}>
+            <div className="card h-100 highlighted mediaquerycenter" style={{ width: "25rem" }}>
 
               <a href="https://closer-encounters.herokuapp.com/"><img src={encounters} className="card-img-top"
                 alt="close encounters application" /></a>
@@ -37,7 +39,7 @@ export default function Home() {
               </div>
             </div>
           </div>
-         
+
         </div>
       </div>
     </div>

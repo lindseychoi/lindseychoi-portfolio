@@ -95,13 +95,12 @@ h5 {
 
 .profilepic {
   position: relative;
-  width: 60%;
-  /* border-radius: 50%; */
+  width: 50%;
+  border-radius: 15%;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  left: 15%;
-  top: 1%;
+  left: 10%;
 }
 
 .highlighted {
@@ -158,6 +157,19 @@ h5 {
   margin-top: 25px !important;
 }
 
+@media(max-width: 775px) {
+  .mediaquerycenter {
+    width: 75%;
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    }
+  /* .profilepic {
+    width: 75%;
+  } */
+}
 
 /* earlier code to analyze */
 /* @import url('https://fonts.googleapis.com/css2?family=Elsie+Swash+Caps:wght@900&family=Nanum+Gothic&family=Russo+One&family=Square+Peg&family=Send+Flowers&display=swap'); */

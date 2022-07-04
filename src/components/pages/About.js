@@ -13,7 +13,7 @@ export default function About() {
                 <div className="row row-cols-1">
 
                     <div className="col-md-8 pt-4">
-                        <div className="card">
+                        <div className="card mediaquerycenter">
                             <div className="card-body">
                                 <h5 className="card-title text-center">Summary</h5>
                                 <div className="card-text">
@@ -31,7 +31,7 @@ export default function About() {
                         </div>
 
                         <div className="col-md-12 pt-4">
-                            <div className="card">
+                            <div className="card mediaquerycenter">
                                 <div className="card-body">
                                     <h5 className="card-title text-center">Education</h5>
                                     <div className="card-text">
@@ -43,7 +43,7 @@ export default function About() {
                         </div>
 
                         <div className="col-md-12 pt-4">
-                            <div className="card">
+                            <div className="card mediaquerycenter">
                                 <div className="card-body">
                                     <h5 className="card-title text-center">Skills</h5>
                                     <div className="card-text text-center">
@@ -56,13 +56,15 @@ export default function About() {
                     </div>
 
                     <div className="col-md-4 pt-4">
-                        <img src={picProfile} className="aboutPic" alt="me on a mountain" />
+                        <div className="mediaquerycenter">
+                            <img src={picProfile} className="aboutPic" alt="me on a mountain" />
+                        </div>
                     </div>
 
                     <div className="row row-cols-1">
 
                         <div className="col-md-4 pt-4">
-                            <div className="card h-100 card-padding">
+                            <div className="card h-100 card-padding mediaquerycenter">
                                 <div className="card-body d-flex flex-column">
                                     <h5 className="card-title text-center">Technologies</h5>
                                     <div className="card-text">
@@ -73,7 +75,7 @@ export default function About() {
                         </div>
 
                         <div className="col-md-4 pt-4">
-                            <div className="card h-100 card-padding">
+                            <div className="card h-100 card-padding mediaquerycenter">
                                 <div className="card-body">
                                     <h5 className="card-title text-center">Programming Languages</h5>
                                     <div className="card-text">
@@ -84,7 +86,7 @@ export default function About() {
                         </div>
 
                         <div className="col-md-4 pt-4">
-                            <div className="card h-100 card-padding">
+                            <div className="card h-100 card-padding mediaquerycenter">
                                 <div className="card-body">
                                     <h5 className="card-title text-center">Technical Concepts and Data</h5>
                                     <div className="card-text">
@@ -108,9 +110,9 @@ export default function About() {
                         <div className="col-md-11 pt-4">
                             <div className="row row-cols-1">
                                 <div className="col-md-12 pt-4">
-                                    <h5 className="text-center bigger-bolder">
+                                    <h5 className="text-center bigger-bolder mediaquerycenter">
                                         <div className="col-md-12 pt-4 text-center">
-                                            
+
                                             <a className="fa-2xl fa-cog fa-flag fa-brands logo-padding-2"><FontAwesomeIcon icon={faHtml5} /></a>
                                             <a className="fa-2xl fa-cog fa-flag fa-brands logo-padding-2"><FontAwesomeIcon icon={faCss3} /></a>
                                             <a className="fa-2xl fa-cog fa-flag fa-brands logo-padding-2"><FontAwesomeIcon icon={faJs} /></a>
