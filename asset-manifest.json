@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/lindseychoi-portfolio/static/css/main.fce30531.chunk.css",
-    "main.js": "/lindseychoi-portfolio/static/js/main.194d95f3.chunk.js",
-    "main.js.map": "/lindseychoi-portfolio/static/js/main.194d95f3.chunk.js.map",
+    "main.css": "/lindseychoi-portfolio/static/css/main.0fceb4ba.chunk.css",
+    "main.js": "/lindseychoi-portfolio/static/js/main.6c502e81.chunk.js",
+    "main.js.map": "/lindseychoi-portfolio/static/js/main.6c502e81.chunk.js.map",
     "runtime-main.js": "/lindseychoi-portfolio/static/js/runtime-main.ab016b6a.js",
     "runtime-main.js.map": "/lindseychoi-portfolio/static/js/runtime-main.ab016b6a.js.map",
     "static/css/2.0a9ec390.chunk.css": "/lindseychoi-portfolio/static/css/2.0a9ec390.chunk.css",
@@ -10,15 +10,16 @@
     "static/js/2.f47d43aa.chunk.js.map": "/lindseychoi-portfolio/static/js/2.f47d43aa.chunk.js.map",
     "index.html": "/lindseychoi-portfolio/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/lindseychoi-portfolio/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.fce30531.chunk.css.map": "/lindseychoi-portfolio/static/css/main.fce30531.chunk.css.map",
+    "static/css/main.0fceb4ba.chunk.css.map": "/lindseychoi-portfolio/static/css/main.0fceb4ba.chunk.css.map",
     "static/js/2.f47d43aa.chunk.js.LICENSE.txt": "/lindseychoi-portfolio/static/js/2.f47d43aa.chunk.js.LICENSE.txt",
-    "static/media/Lindsey_Choi_Resume.a37fec0f.PDF": "/lindseychoi-portfolio/static/media/Lindsey_Choi_Resume.a37fec0f.PDF",
     "static/media/accretion-screenshot.5c95c16a.png": "/lindseychoi-portfolio/static/media/accretion-screenshot.5c95c16a.png",
     "static/media/blog-that-stuff.adfdecf2.jpg": "/lindseychoi-portfolio/static/media/blog-that-stuff.adfdecf2.jpg",
+    "static/media/close-encounters-screenshot.3a45ac52.jpg": "/lindseychoi-portfolio/static/media/close-encounters-screenshot.3a45ac52.jpg",
     "static/media/cropped-picprofile-bw.82711f85.JPEG": "/lindseychoi-portfolio/static/media/cropped-picprofile-bw.82711f85.JPEG",
-    "static/media/cropped-shoes-pic.57623642.jpg": "/lindseychoi-portfolio/static/media/cropped-shoes-pic.57623642.jpg",
     "static/media/izzy-pic.244327fb.jpg": "/lindseychoi-portfolio/static/media/izzy-pic.244327fb.jpg",
+    "static/media/lindsey-e-choi-resume-2022.c05a3a4c.pdf": "/lindseychoi-portfolio/static/media/lindsey-e-choi-resume-2022.c05a3a4c.pdf",
     "static/media/multiple-choice-screenshot.35d3157f.jpg": "/lindseychoi-portfolio/static/media/multiple-choice-screenshot.35d3157f.jpg",
+    "static/media/profilepic2022.45276b08.jpg": "/lindseychoi-portfolio/static/media/profilepic2022.45276b08.jpg",
     "static/media/take-a-hike-screenshot.c4621b11.jpg": "/lindseychoi-portfolio/static/media/take-a-hike-screenshot.c4621b11.jpg",
     "static/media/weather-tracker-screenshot.26b127be.jpg": "/lindseychoi-portfolio/static/media/weather-tracker-screenshot.26b127be.jpg"
   },
@@ -26,7 +27,7 @@
     "static/js/runtime-main.ab016b6a.js",
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.f47d43aa.chunk.js",
-    "static/css/main.fce30531.chunk.css",
-    "static/js/main.194d95f3.chunk.js"
+    "static/css/main.0fceb4ba.chunk.css",
+    "static/js/main.6c502e81.chunk.js"
   ]
 }
