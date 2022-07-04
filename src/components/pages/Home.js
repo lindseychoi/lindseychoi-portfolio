@@ -24,7 +24,7 @@ export default function Home() {
           </div>
 
           <div className="col-md-6 pt-4">
-            <div className="card h-100 highlighted mediaquerycenter" style={{ width: "25rem" }}>
+            <div className="card h-100 highlighted mediaquerycenter highlighted" style={{ width: "25rem" }}>
 
               <a href="https://closer-encounters.herokuapp.com/"><img src={encounters} className="card-img-top"
                 alt="close encounters application" /></a>
