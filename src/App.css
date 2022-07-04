@@ -100,11 +100,11 @@ h5 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  left: 10%;
+  /* left: 10%; */
 }
 
 .highlighted {
-  left: 3%;
+  /* left: 3%; */
 }
 
 .image-overlay {
