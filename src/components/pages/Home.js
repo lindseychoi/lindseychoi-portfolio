@@ -1,5 +1,5 @@
 import React from 'react';
-import linkedInPhoto from '../../assets/profilepic2022.jpg';
+import linkedInPhoto from '../../assets/pic-for-profile.jpg';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import encounters from '../../assets/close-encounters-screenshot.jpg';
 
@@ -29,7 +29,7 @@ export default function Home() {
               <a href="https://closer-encounters.herokuapp.com/"><img src={encounters} className="card-img-top"
                 alt="close encounters application" /></a>
 
-              <div className="card-body">
+              <div className="card-body profilepic">
                 <h5 className="card-title"><a href="https://github.com/DanielMrva/close_encounters">Highlighted Project: Close Encounters</a></h5>
                 <div className="card-text">
                   My most recent project is an app called Close Encounters. Close Encounters aims to connect individuals who have been involved in various encounters. We are not alone -- and neither are you on this application.

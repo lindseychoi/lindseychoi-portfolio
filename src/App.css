@@ -32,7 +32,7 @@ a {
 
 .nav-link:hover {
   background-color: white;
-  color: #D83F87 !important;
+  color: #3e94ab !important;
 }
 
 .fa-cog {
@@ -40,7 +40,7 @@ a {
 }
 
 .fa-flag:hover {
-  color: #D83F87;
+  color: #3e94ab;
 }
 
 a {
@@ -50,8 +50,9 @@ a {
 }
 
 a:hover {
-  color: #D83F87;
+  color: #3e94ab;
 }
+
 .card-padding {
   margin-top: 15px;
 }
@@ -85,7 +86,7 @@ h5 {
   left: 3%;
   width: 100%;
   margin: 0;
-  background-color: #D83F87;
+  background-color: #3e94ab;
 }
 
 .nav-item {
@@ -96,7 +97,7 @@ h5 {
 .profilepic {
   position: relative;
   width: 75%;
-  border-radius: 50%;
+  border-radius: 50% !important;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -139,7 +140,7 @@ h5 {
 }
 
 .btn-success {
-  background-color: #D83F87;
+  background-color: #3e94ab;
   border: none;
 }
 
