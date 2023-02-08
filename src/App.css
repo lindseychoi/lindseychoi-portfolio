@@ -32,7 +32,7 @@ a {
 
 .nav-link:hover {
   background-color: white;
-  color: #3e94ab !important;
+  color: black !important;
 }
 
 .fa-cog {
@@ -86,7 +86,7 @@ h5 {
   left: 3%;
   width: 100%;
   margin: 0;
-  background-color: #3e94ab;
+  background-color: black;
 }
 
 .nav-item {
