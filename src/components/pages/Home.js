@@ -32,7 +32,7 @@ export default function Home() {
               <div className="card-body profilepic">
                 <h5 className="card-title"><a href="https://github.com/DanielMrva/close_encounters">Highlighted Project: Close Encounters</a></h5>
                 <div className="card-text card-padding">
-                  Disclaimer: Heroku is no longer offering free services! Thanks for you patience while this app finds a new home!
+                  Disclaimer: Heroku is no longer offering free services! Thanks for your patience while this app finds a new home!
                 </div>
                 <div className="card-text card-padding">
                   My most recent personal project is an app called Close Encounters. Close Encounters aims to connect individuals who have been involved in various encounters. We are not alone -- and neither are you on this application.
