@@ -2,7 +2,7 @@ import { faCss3, faGithub, faGitSquare, faHtml5, faJs, faNodeJs, faReact } from 
 import React from 'react';
 import picProfile from '../../assets/cropped-picprofile-bw.JPEG';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import Pdf from '../../assets/lindsey-e-choi-resume-2022.pdf';
+import Pdf from '../../assets/LINDSEY_CHOI_RESUME.pdf';
 
 export default function About() {
     return (
@@ -16,16 +16,34 @@ export default function About() {
                         <div className="card mediaquerycenter">
                             <div className="card-body">
                                 <h5 className="card-title text-center">Summary</h5>
-                                <div className="card-text">
-                                    I am a full-stack developer that has recently graduated from the University of Denver Full Stack Bootcamp. I am excited to
-                                    learn and apply my skills to a variety of projects and technologies.
-                                    I have always enjoyed gaming and technology, and coding is refreshing, technical and fun.
-                                    This career allows me to continue learning, and I particularly like working hard to stay on top of the latest technologies and procedures.
-                                    Before coding, I spent most of my career in education. I graduated from Colorado State University in 2011 with a Bachelor's in English Literature and was a teacher for nine years.
-                                    Most recently, I tailored technology for individual students, other teachers, and myself to help with the difficult transition back and forth from e-learning to in-person learning.
-                                    I had a lot of responsibility for structuring online learning
-                                    for students with various platforms and applications because of the COVID pandemic.
-                                    That really helped me find my passion in programming, and I'm loving the switch to the technical side!
+                                <div className="card-text card-padding">
+                                        I’m a full stack developer contracting with TEKsystems for FedEx. I'm currently
+                                    implementing functionality in the UX/UI and front end of one of their applications utilizing Angular,
+                                    Ngrx, and Typescript. I've been enjoying my focus on the front-end but have recently been doing work
+                                    with CI/CD, Jenkins, Java, and Spring Boot as well. I work directly with the business architects, our
+                                    technical advisor, and the rest of the team to provide modernization and new functionality for
+                                    applications. 
+                                </div>
+                                <div className="card-text card-padding">
+                                        My team develops in an Agile environment, and I have experience with daily standups,
+                                    sprints, and PI planning. I have past experience with the MERN stack as well.
+                                    I am studying to obtain my COMPTIA Security+ certification and will be sitting for that
+                                    exam in April 2023. I’m also working on growing my knowledge and skill by looking into Docker
+                                    and Kubernetes. I might be new to the industry, but I’m great at solving problems and learning
+                                    new technologies.
+                                </div>
+                                <div className="card-text card-padding">
+                                        My former career was in education. I have ten years of direct educational experience
+                                    and have worked as an instructor at various levels for that time. While in that field, I was data
+                                    and results driven, and I regularly worked with large and small groups to ensure that students
+                                    understood content. I created online learning content and was engaged actively with the switch
+                                    to online learning during the pandemic. My past experience in education has prepared me for
+                                    my career as a developer by giving me solid skills for communicating with customers and the
+                                    business side. I can easily converse about business needs and convert them into technical
+                                    requirements and solutions to provide a great user experience.
+                                </div>
+                                <div className="card-text card-padding">
+                                    I appreciate the opportunity to work with you, and I hope to hear from you soon!
                                 </div>
                             </div>
                         </div>
