@@ -86,7 +86,9 @@ export default function About() {
                                 <div className="card-body d-flex flex-column">
                                     <h5 className="card-title text-center">Technologies</h5>
                                     <div className="card-text">
-                                        Mongoose, Express, MySQL, MongoDB, MySQL, NodeJS, Git, GitHub, Insomnia, MongoDB Compass, Sandbox, Heroku, Lighthouse, VS Code, MERN Stack, GraphQL, Apollo
+                                        Angular, React, NgRx, NodeJS, Git, GitHub, Insomnia, Postman, Sandbox,
+                                        Mongoose, Express, MySQL, MongoDB, Heroku, Lighthouse, VS Code, MERN Stack, GraphQL, Webpack,
+                                        Jenkins, Spring Boot, Maven                                    
                                     </div>
                                 </div>
                             </div>
@@ -97,7 +99,7 @@ export default function About() {
                                 <div className="card-body">
                                     <h5 className="card-title text-center">Programming Languages</h5>
                                     <div className="card-text">
-                                        HTML 5, CSS 3, JavaScript, React, MVC, Webpack, JSX
+                                        HTML, CSS, JavaScript, TypeScript, Java, Python
                                     </div>
                                 </div>
                             </div>
@@ -108,8 +110,8 @@ export default function About() {
                                 <div className="card-body">
                                     <h5 className="card-title text-center">Technical Concepts and Data</h5>
                                     <div className="card-text">
-                                        JSON, OOP, CRUD, RESTful web services, API, Progressive Web Applications
-                                    </div>
+                                        CI/CD Pipelines, OOP, CRUD, RESTful web services, JSON, API, MVC,
+                                        Progressive Web Applications, Responsive Design, UX/UI design                                    </div>
                                 </div>
                             </div>
                         </div>
