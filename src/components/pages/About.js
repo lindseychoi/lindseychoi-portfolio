@@ -111,7 +111,8 @@ export default function About() {
                                     <h5 className="card-title text-center">Technical Concepts and Data</h5>
                                     <div className="card-text">
                                         CI/CD Pipelines, OOP, CRUD, RESTful web services, JSON, API, MVC,
-                                        Progressive Web Applications, Responsive Design, UX/UI design                                    </div>
+                                        Progressive Web Applications, Responsive Design, UX/UI design                                    
+                                    </div>
                                 </div>
                             </div>
                         </div>
