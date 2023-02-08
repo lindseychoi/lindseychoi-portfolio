@@ -1,5 +1,5 @@
 import React from 'react';
-import linkedInPhoto from '../../assets/xmas-card-2-2022.jpg';
+import linkedInPhoto from '../../assets/image_67208449.JPG'; 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import encounters from '../../assets/close-encounters-screenshot.jpg';
 
