@@ -23,7 +23,7 @@ export default function Contact() {
               <a href="https://instagram.com/_lindseychoi_/" className="fa-2xl fa-cog fa-flag logo-padding"><FontAwesomeIcon icon={faInstagram} /></a>
             </div>
         
-        <div className="col-md-12 text-center pt-4">lindsey.e.choi@gmail.com</div>
+        <div className="col-md-12 text-center pt-4 email">lindsey.e.choi@gmail.com</div>
 
         </div>
 

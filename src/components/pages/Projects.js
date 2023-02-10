@@ -4,12 +4,33 @@ import Weather from '../../assets/weather-tracker-screenshot.jpg';
 import Accretion from '../../assets/accretion-screenshot.png';
 import Blog from '../../assets/blog-that-stuff.jpg';
 import Quiz from '../../assets/multiple-choice-screenshot.jpg';
+import encounters from '../../assets/close-encounters-screenshot.jpg';
 
 export default function Projects() {
   return (
     <div>
       <div className="container">
         <div className="row row-cols-1 gx-3">
+
+        <div className="col-md-4 pt-4">
+            <div className="card h-100 highlighted mediaquerycenter highlighted" style={{ width: "25rem" }}>
+
+              <a href="https://closer-encounters.herokuapp.com/"><img src={encounters} className="card-img-top"
+                alt="close encounters application" /></a>
+
+              <div className="card-body profilepic">
+                <h5 className="card-title"><a href="https://github.com/DanielMrva/close_encounters">Highlighted Project: Close Encounters</a></h5>
+                <div className="card-text card-padding">
+                  Disclaimer: Heroku is no longer offering free services! Thanks for your patience while this app finds a new home!
+                </div>
+                <div className="card-text card-padding">
+                  My most recent personal project is an app called Close Encounters. Close Encounters aims to connect individuals who have been involved in various encounters. We are not alone -- and neither are you on this application.
+                  Close Encounters was created with a variety of technologies, including React, MongoDB, Mongoose, GraphQL, Leaflet, React Router, React Bootstrap, and more!
+                  Our programming team was made up of myself, Daniel Mrva, Amber Zimmerman, and Al Garraffa. 
+                </div>
+              </div>
+            </div>
+          </div>
 
           <div className="col-md-4 pt-4">
             <div className="card h-100 mediaquerycenter" style={{ width: "25rem" }}>

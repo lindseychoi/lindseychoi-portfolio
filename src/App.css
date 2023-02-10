@@ -6,6 +6,10 @@
   -moz-osx-font-smoothing: grayscale;    
 }
 
+body {
+  background: black;
+}
+
 :root {
 
   --size-300: clamp(0.7rem, calc(0.66rem + 0.2vw), 0.8rem);
@@ -30,17 +34,23 @@ a {
   font-size: var(--size-600);
 }
 
-.nav-link:hover {
+/* .nav-link:hover {
   background-color: white;
   color: black !important;
-}
+} */
 
 .fa-cog {
-  color: black;
+  color: white !important;
 }
 
-.fa-flag:hover {
-  color: #3e94ab;
+.fa-cog:hover {
+  color: #3e94ab !important;
+}
+
+.logo{
+  width: 75%;
+  height: 75%;
+  margin: auto;
 }
 
 a {
@@ -81,11 +91,12 @@ h5 {
   font-size: 25px;
 } */
 
+.email {
+  color: white;
+  font-size: 45px;
+}
+
 .customNav {
-  top: 25%;
-  left: 3%;
-  width: 100%;
-  margin: 0;
   background-color: black;
 }
 
@@ -102,19 +113,6 @@ h5 {
   margin-left: auto;
   margin-right: auto;
   /* left: 10%; */
-}
-
-.highlighted {
-  /* left: 3%; */
-}
-
-.image-overlay {
-  background-color: pink;
-  height: 100%;
-  opacity: 0;
-  position: absolute;
-  transition: .2s;
-  width: 100%;
 }
 
 .aboutPic {
@@ -136,6 +134,7 @@ h5 {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+  color: white;
   /* font-size: 23px; */
 }
 
@@ -169,12 +168,11 @@ h5 {
     }
   .profilepic {
     position: relative;
-    width: 100%;
+    width: 85%;
     border-radius: 50%;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    /* left: 10%;   */
   }
   .highlighted {
     width: 100%;
@@ -185,6 +183,10 @@ h5 {
     text-align: center;
     /* left: 3%; */
   }  
+  .email {
+    font-size: 25px;
+  }
+  
 }
 
 /* earlier code to analyze */
@@ -226,13 +228,6 @@ h5 {
   }
   
   
-  nav {
-      position: relative;
-      top: 25%;
-      left: 3%;
-      font-size: 25px;
-      flex-direction: column;
-  }
   
   .card-body {
     display: flex;
