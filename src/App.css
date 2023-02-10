@@ -106,19 +106,17 @@ h5 {
 }
 
 .profilepic {
-  position: relative;
-  width: 75%;
-  border-radius: 50% !important;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  /* left: 10%; */
+  width: 30%;
 }
 
 .aboutPic {
   position: relative;
-  width: 70%;
-  margin-left: 38px;
+  width: 80%;
+  height: 80%;
+  margin: auto;
 }
 
 .dogPic {

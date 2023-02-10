@@ -10,17 +10,10 @@ export default function Home() {
 
           <div className="col-md-12 pt-4">
             <div className="welcomeHome">
-              <h5>
-                Welcome to my portfolio! I'm Lindsey Choi, and I'm a full-stack developer in Colorado Springs.
-              </h5>
+            <img src={linkedInPhoto} className="profilepic mediaquerycenter" alt="me in a pink jacket" />
             </div>
           </div>
 
-          <div className="col-md-6 pt-4 mediaquerycenter">
-            <div className="mediaquerycenter">
-              <img src={linkedInPhoto} className="profilepic mediaquerycenter" alt="me in a pink jacket" />
-            </div>
-          </div>
 
 
         </div>
