@@ -20,7 +20,7 @@ export default function Projects() {
 
               <div className="card-body">
                 <h5 className="card-title"><a href="https://github.com/DanielMrva/close_encounters">Highlighted Project: Close Encounters</a></h5>
-                <div className="card-text">
+                <div className="card-text padding-bottom">
                   Disclaimer: Heroku is no longer offering free services! Thanks for your patience while this app finds a new home!
                 </div>
                 <div className="card-text">
@@ -38,6 +38,9 @@ export default function Projects() {
                 alt="usgs accretion application." /></a>
               <div className="card-body">
                 <h5 className="card-title"><a href="https://github.com/lindseychoi/accretion">Accretion</a></h5>
+                <div className="card-text padding-bottom">
+                  Disclaimer: Heroku is no longer offering free services! Thanks for your patience while this app finds a new home!
+                </div>
                 <div className="card-text">
                   Worked with a team to create an application for the USGS to collect paperwork from the offices he
                   works with.
@@ -91,6 +94,9 @@ export default function Projects() {
                 alt="blog that stuff" /></a>
               <div className="card-body">
                 <h5 className="card-title"><a href="https://github.com/lindseychoi/blog-that-stuff">Blog That Stuff</a></h5>
+                <div className="card-text padding-bottom">
+                  Disclaimer: Heroku is no longer offering free services! Thanks for your patience while this app finds a new home!
+                </div>
                 <div className="card-text">
                   A simple blog that allows users to sign up and make blog posts. Each user has their own profile that allows them to see their own posts, and the homepage shows all of the posts from every user. Come on over and blog that stuff!
                 </div>

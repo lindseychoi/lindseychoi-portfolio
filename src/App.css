@@ -39,6 +39,10 @@ a {
   color: black !important;
 } */
 
+.padding-bottom {
+  padding-bottom: 15px;
+}
+
 .fa-cog {
   color: white !important;
 }
