@@ -3,7 +3,7 @@ import { faCode } from '@fortawesome/free-solid-svg-icons';
 import { faHouse } from '@fortawesome/free-solid-svg-icons';
 import React from 'react';
 import logo from '../assets/lindsey-choi-logo-trimmed.png';
-import { faPaperPlane } from '@fortawesome/free-regular-svg-icons';
+import { faPaperPlane, faUser } from '@fortawesome/free-regular-svg-icons';
 function NavBar({ currentPage, handlePageChange }) {
 
   return (
@@ -22,10 +22,19 @@ function NavBar({ currentPage, handlePageChange }) {
         <li className="nav-item">
           <a
             href="#about"
-            onClick={() => handlePageChange('About')}
+            onClick={() => handlePageChange('Home')}
             className={currentPage === 'About' ? 'fa-cog:hover' : 'fa-cog'}
             style={{color:'white', padding: '25px'}}>
             <FontAwesomeIcon icon={faHouse} />
+          </a>
+        </li>
+        <li className="nav-item">
+          <a
+            href="#about"
+            onClick={() => handlePageChange('About')}
+            className={currentPage === 'About' ? 'fa-cog:hover' : 'fa-cog'}
+            style={{color:'white', padding: '25px'}}>
+            <FontAwesomeIcon icon={faUser} />
           </a>
         </li>
         <li className="nav-item">

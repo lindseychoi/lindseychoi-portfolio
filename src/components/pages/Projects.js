@@ -153,9 +153,7 @@ export default function Projects() {
               <div className="card-body">
                 <h5 className="card-title"><a href="https://github.com/lindseychoi/multiple-choice">Multiple Choice Quiz</a></h5>
                 <div className="card-text">
-                  A simple application that allows the user to search for the current weather
-                  conditions of a city, as well as the five day forecast. This projects illustrates use of an API and
-                  dynamically drawing information to the page with JS.
+                  A simple application that asks the user a series of questions and keeps up with their score and the most recent high scores. Created utilizing only JavaScript and CSS.
                 </div>
               </div>
             </div>

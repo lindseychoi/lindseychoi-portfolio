@@ -16,6 +16,8 @@ export default function Contact() {
           <div className="col-md-4 text-center pt-4">
             <img src={picIzzy} className="dogPic" alt="picture of izzy the dog" />
           </div>
+          
+          <div className="col-md-12 text-center pt-4 email">lindsey.e.choi@gmail.com</div>
 
           <div className="col-md-12 pt-4 text-center bigger-bolder">
               <a href="https://github.com/lindseychoi" className="fa-2xl fa-cog fa-flag logo-padding"><FontAwesomeIcon icon={faGithub} /></a>
@@ -23,7 +25,6 @@ export default function Contact() {
               <a href="https://instagram.com/_lindseychoi_/" className="fa-2xl fa-cog fa-flag logo-padding"><FontAwesomeIcon icon={faInstagram} /></a>
             </div>
         
-        <div className="col-md-12 text-center pt-4 email">lindsey.e.choi@gmail.com</div>
 
         </div>
 
