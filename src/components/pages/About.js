@@ -51,8 +51,9 @@ export default function About() {
                         <div className="col-md-12 pt-4">
                             <div className="card mediaquerycenter">
                                 <div className="card-body">
-                                    <h5 className="card-title text-center">Education</h5>
+                                    <h5 className="card-title text-center">Education and Certifications</h5>
                                     <div className="card-text">
+                                        <h5 className="text-center">COMPTIA Security+ Certificate, awarded March 2023</h5>
                                         <h5 className="text-center">University of Denver: Full-Stack Coding Bootcamp Certificate</h5>
                                         <h5 className="text-center">Colorado State University: Bachelor of Arts in English Literature</h5>
                                     </div>

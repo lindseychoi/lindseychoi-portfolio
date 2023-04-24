@@ -109,11 +109,14 @@ h5 {
   font-size: var(--size-600);
 }
 
+
+
 .profilepic {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 30%;
+  border-radius: 100%;
 }
 
 .aboutPic {
@@ -145,10 +148,14 @@ h5 {
   border: none;
 }
 
-.btn-success:hover, .btn-success:focus, .btn-success:active, .btn-success.active, .open .dropdown-toggle.btn-success {
+.btn-success:hover, .btn-success:focus, .btn-success:active, .open .dropdown-toggle.btn-success {
   background-color: black !important;
   color: white !important;
   border-color:white !important;
+}
+
+.btn-success.active {
+  background-color: hotpink !important;
 }
 
 .btn:focus,.btn:active, .open {

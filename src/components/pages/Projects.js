@@ -5,7 +5,7 @@ import Accretion from '../../assets/accretion-screenshot.png';
 import Blog from '../../assets/blog-that-stuff.jpg';
 import Quiz from '../../assets/multiple-choice-screenshot.jpg';
 import encounters from '../../assets/close-encounters-screenshot.jpg';
-
+import { Overlay } from 'react-bootstrap';
 export default function Projects() {
   return (
     <div>
