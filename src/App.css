@@ -43,18 +43,32 @@ a {
   padding-bottom: 15px;
 }
 
-.fa-cog {
-  color: white !important;
+.newFont {
+  font-family: 'Overpass', sans-serif;
 }
 
-.fa-cog:hover {
-  color: #3e94ab !important;
+.fa-cog {
+  color: white !important;
+  width: 4%;
+  height: 4%;
+}
+
+.fa-cog:after,
+.fa-cog:hover,
+.fa-cog:active,
+.fa-cog:hover:active,
+.fa-cog::selection {
+  color: #ec78cb !important;
 }
 
 .logo{
-  width: 75%;
-  height: 75%;
-  margin: auto;
+  width: 8%;
+  height: 8%;
+  margin: left;
+}
+
+.down {
+  padding-top: 2.5% !important;
 }
 
 a {
@@ -63,8 +77,13 @@ a {
   font-weight: 700;
 }
 
+.title {
+  margin: auto;
+  width: 50%;
+}
+
 a:hover {
-  color: #3e94ab;
+  color: #ec78cb !important;
 }
 
 .card-padding {
@@ -83,6 +102,10 @@ a:hover {
 .logo-padding-2 {
   position:relative;
   padding: 50px;
+}
+
+.edHeight {
+  height: 100%;
 }
 
 h5 {
@@ -105,24 +128,21 @@ h5 {
 }
 
 .nav-item {
-  text-align: center;
   font-size: var(--size-600);
 }
-
-
 
 .profilepic {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 30%;
+  width: 50%;
   border-radius: 100%;
 }
 
 .aboutPic {
-  position: relative;
-  width: 80%;
-  height: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 200%;
   margin: auto;
 }
 
@@ -133,15 +153,26 @@ h5 {
 }
 
 .welcomeHome {
-  width: 100%;
+  width: 95%;
   position: relative;
   display: block;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-  color: white;
-  /* font-size: 23px; */
+  padding: 8%;
 }
+
+/* .fedex {
+  height: 150%;
+  width: 150%;
+  padding: 5%;
+} 
+
+.teksys {
+  height: 250%;
+  width: 250%;
+  padding: 5%;
+}  */
 
 .btn-success {
   background-color: #3e94ab;
@@ -149,7 +180,7 @@ h5 {
 }
 
 .btn-success:hover, .btn-success:focus, .btn-success:active, .open .dropdown-toggle.btn-success {
-  background-color: black !important;
+  background-color: hotpink !important;
   color: white !important;
   border-color:white !important;
 }
@@ -163,10 +194,13 @@ h5 {
   box-shadow: none;
 }
 .resume {
-  margin-top: 25px !important;
+  margin-top: 3.5% !important;
 }
 
 @media(max-width: 775px) {
+  .logo {
+    width: 15%;
+  }
   .mediaquerycenter {
     width: 100%;
     position: relative;
@@ -176,9 +210,8 @@ h5 {
     text-align: center;
     }
   .profilepic {
-    position: relative;
     width: 100%;
-    border-radius: 50%;
+    position: relative;
     display: block;
     margin-left: auto;
     margin-right: auto;
