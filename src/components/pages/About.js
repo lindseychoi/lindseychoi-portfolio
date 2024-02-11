@@ -2,9 +2,6 @@ import { faCss3, faGithub, faGitSquare, faHtml5, faJs, faNodeJs, faReact } from 
 import React from 'react';
 import picProfile from '../../assets/logo-2023-pink-outline-2023.jpg';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import Pdf from '../../assets/2023-lindsey-choi.pdf';
-import fedEx from '../../assets/fedex-logo.jpg'
-import tek from '../../assets/tek-systems-logo.jpg'
 
 export default function About() {
     return (
@@ -14,7 +11,7 @@ export default function About() {
             <div className="row row-cols-1">
 
                 <div className="col-md-12 pt-4">
-                    <div className="card mediaquerycenter">
+                    {/* <div className="card mediaquerycenter">
                         <div className="card-body">
                             <div className="row row-cols-1">
                                 <h5 className="card-title text-center">Education and Certifications</h5>
@@ -24,36 +21,23 @@ export default function About() {
                                     <h5 className="text-center">Colorado State University: Bachelor of Arts in English Literature</h5>
                                 </div>
                             </div>
-
-                            <div className="row row-cols-1">
-                                <div className="col-md-5 pt-4 text-center resume">
-                                    <a className="btn btn-success btn-block shadow-none" href={Pdf} download> Download a PDF of my Resumé</a>
-                                </div>
-                            </div>
-
                         </div>
-                    </div>
+                    </div> */}
 
                     <div className="row row-cols-1">
 
                         <div className="col-md-7 pt-4">
                             <div className="card mediaquerycenter edHeight">
                                 <div className="card-body">
-                                    <h5 className="card-title text-center">Summary</h5>
+                                    <h5 className="card-title text-center">Exciting news! I've started working on admission to the online Masters of Computer Science Program, through CU Boulder! I'm working on their Software Architecture class. Visit my GitHub to see my progress.</h5>
                                     <div className="card-text card-padding">
-                                        I’m a full stack developer contracting with TEKsystems for FedEx. I'm currently
-                                        implementing functionality in the UX/UI and front end of one of their applications utilizing Angular,
-                                        Ngrx, and Typescript. I've been enjoying my focus on the front-end but have recently been doing work
-                                        with CI/CD, Jenkins, Java, and Spring Boot as well. I work directly with the business architects, our
-                                        technical advisor, and the rest of the team to provide modernization and new functionality for
-                                        applications.
+                                    I'm a full stack developer with a passion for creating stream-lined, attractive applications. My focus is on the frontend and UI portions of applications, and I work with software and systems engineers as an integral part of a development team to create technical solutions for DoD needs. I can assist your team in building and maintaining resilient, robust applications that provide flawless user experiences and design for your customers. 
                                     </div>
                                     <div className="card-text card-padding">
-                                        My team develops in an Agile environment, and I have experience with daily standups,
+                                        I have experience developing in an Agile environment, including participating in daily standups,
                                         sprints, and PI planning. I have past experience with the MERN stack as well.
                                         I’m also working on growing my knowledge and skill by looking into Docker
-                                        and Kubernetes. I might be new to the industry, but I’m great at solving problems and learning
-                                        new technologies.
+                                        and Kubernetes. 
                                     </div>
                                     <div className="card-text card-padding">
                                         My former career was in education. I have ten years of direct educational experience
@@ -99,7 +83,7 @@ export default function About() {
                                     <div className="card-body">
                                         <h5 className="card-title text-center">Programming Languages</h5>
                                         <div className="card-text">
-                                            HTML, CSS, JavaScript, TypeScript, Java, Python
+                                            HTML, CSS, JavaScript, TypeScript, Java, Python, Kotlin
                                         </div>
                                     </div>
                                 </div>
@@ -123,7 +107,7 @@ export default function About() {
 
                                 <div className="row row-cols-1">
                                     <div className="col-md-5 pt-4 text-center resume">
-                                        <a className="btn btn-success btn-block shadow-none" href={Pdf} download> Download a PDF of my Resumé</a>
+                                        {/* <a className="btn btn-success btn-block shadow-none" href={Pdf} download> Download a PDF of my Resumé</a> */}
                                     </div>
                                 </div>
                             </div>

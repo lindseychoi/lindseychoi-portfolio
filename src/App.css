@@ -59,6 +59,7 @@ a {
 .fa-cog:hover:active,
 .fa-cog::selection {
   color: #ec78cb !important;
+  cursor: pointer;
 }
 
 .logo{
