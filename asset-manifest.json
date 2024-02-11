@@ -1,34 +1,24 @@
 {
   "files": {
-    "main.css": "/lindseychoi-portfolio/static/css/main.73da184d.chunk.css",
-    "main.js": "/lindseychoi-portfolio/static/js/main.0304f786.chunk.js",
-    "main.js.map": "/lindseychoi-portfolio/static/js/main.0304f786.chunk.js.map",
-    "runtime-main.js": "/lindseychoi-portfolio/static/js/runtime-main.ab016b6a.js",
-    "runtime-main.js.map": "/lindseychoi-portfolio/static/js/runtime-main.ab016b6a.js.map",
-    "static/css/2.89e45307.chunk.css": "/lindseychoi-portfolio/static/css/2.89e45307.chunk.css",
-    "static/js/2.5d65d048.chunk.js": "/lindseychoi-portfolio/static/js/2.5d65d048.chunk.js",
-    "static/js/2.5d65d048.chunk.js.map": "/lindseychoi-portfolio/static/js/2.5d65d048.chunk.js.map",
+    "main.css": "/lindseychoi-portfolio/static/css/main.3f6fed03.css",
+    "main.js": "/lindseychoi-portfolio/static/js/main.0cea140a.js",
+    "static/media/accretion-screenshot.png": "/lindseychoi-portfolio/static/media/accretion-screenshot.5c95c16a4770f9d45ecd.png",
+    "static/media/cropped-shoes-pic.jpg": "/lindseychoi-portfolio/static/media/cropped-shoes-pic.57623642ff94899c387e.jpg",
+    "static/media/close-encounters-screenshot.jpg": "/lindseychoi-portfolio/static/media/close-encounters-screenshot.3a45ac524de378ff1bdc.jpg",
+    "static/media/take-a-hike-screenshot.jpg": "/lindseychoi-portfolio/static/media/take-a-hike-screenshot.c4621b117e79ba854c74.jpg",
+    "static/media/Lindsey-Choi-Resume.pdf": "/lindseychoi-portfolio/static/media/Lindsey-Choi-Resume.2018bf70e774cf32b061.pdf",
+    "static/media/izzy-pic.jpg": "/lindseychoi-portfolio/static/media/izzy-pic.244327fbaeda75e2ab6b.jpg",
+    "static/media/weather-tracker-screenshot.jpg": "/lindseychoi-portfolio/static/media/weather-tracker-screenshot.26b127be18d4c98d85e7.jpg",
+    "static/media/blog-that-stuff.jpg": "/lindseychoi-portfolio/static/media/blog-that-stuff.adfdecf29af209514056.jpg",
+    "static/media/logo-2023-pink-outline-2023.jpg": "/lindseychoi-portfolio/static/media/logo-2023-pink-outline-2023.e0892eadddcb54d84c2f.jpg",
+    "static/media/multiple-choice-screenshot.jpg": "/lindseychoi-portfolio/static/media/multiple-choice-screenshot.35d3157ff275b2b50e61.jpg",
+    "static/media/logo-2023-dark.jpg": "/lindseychoi-portfolio/static/media/logo-2023-dark.8fb01aa81f7830abfe4e.jpg",
     "index.html": "/lindseychoi-portfolio/index.html",
-    "static/css/2.89e45307.chunk.css.map": "/lindseychoi-portfolio/static/css/2.89e45307.chunk.css.map",
-    "static/css/main.73da184d.chunk.css.map": "/lindseychoi-portfolio/static/css/main.73da184d.chunk.css.map",
-    "static/js/2.5d65d048.chunk.js.LICENSE.txt": "/lindseychoi-portfolio/static/js/2.5d65d048.chunk.js.LICENSE.txt",
-    "static/media/2023-lindsey-choi.26c83f77.pdf": "/lindseychoi-portfolio/static/media/2023-lindsey-choi.26c83f77.pdf",
-    "static/media/accretion-screenshot.5c95c16a.png": "/lindseychoi-portfolio/static/media/accretion-screenshot.5c95c16a.png",
-    "static/media/blog-that-stuff.adfdecf2.jpg": "/lindseychoi-portfolio/static/media/blog-that-stuff.adfdecf2.jpg",
-    "static/media/close-encounters-screenshot.3a45ac52.jpg": "/lindseychoi-portfolio/static/media/close-encounters-screenshot.3a45ac52.jpg",
-    "static/media/cropped-picprofile-bw.82711f85.JPEG": "/lindseychoi-portfolio/static/media/cropped-picprofile-bw.82711f85.JPEG",
-    "static/media/izzy-pic.244327fb.jpg": "/lindseychoi-portfolio/static/media/izzy-pic.244327fb.jpg",
-    "static/media/lindsey-choi-logo-trimmed.2972da5e.png": "/lindseychoi-portfolio/static/media/lindsey-choi-logo-trimmed.2972da5e.png",
-    "static/media/multiple-choice-screenshot.35d3157f.jpg": "/lindseychoi-portfolio/static/media/multiple-choice-screenshot.35d3157f.jpg",
-    "static/media/pic_2023_filter.5be1e7c8.jpg": "/lindseychoi-portfolio/static/media/pic_2023_filter.5be1e7c8.jpg",
-    "static/media/take-a-hike-screenshot.c4621b11.jpg": "/lindseychoi-portfolio/static/media/take-a-hike-screenshot.c4621b11.jpg",
-    "static/media/weather-tracker-screenshot.26b127be.jpg": "/lindseychoi-portfolio/static/media/weather-tracker-screenshot.26b127be.jpg"
+    "main.3f6fed03.css.map": "/lindseychoi-portfolio/static/css/main.3f6fed03.css.map",
+    "main.0cea140a.js.map": "/lindseychoi-portfolio/static/js/main.0cea140a.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.ab016b6a.js",
-    "static/css/2.89e45307.chunk.css",
-    "static/js/2.5d65d048.chunk.js",
-    "static/css/main.73da184d.chunk.css",
-    "static/js/main.0304f786.chunk.js"
+    "static/css/main.3f6fed03.css",
+    "static/js/main.0cea140a.js"
   ]
 }
