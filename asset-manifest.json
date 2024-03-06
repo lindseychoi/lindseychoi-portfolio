@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/lindseychoi-portfolio/static/css/main.3f6fed03.css",
-    "main.js": "/lindseychoi-portfolio/static/js/main.0cea140a.js",
+    "main.js": "/lindseychoi-portfolio/static/js/main.54fcc54e.js",
     "static/media/accretion-screenshot.png": "/lindseychoi-portfolio/static/media/accretion-screenshot.5c95c16a4770f9d45ecd.png",
     "static/media/cropped-shoes-pic.jpg": "/lindseychoi-portfolio/static/media/cropped-shoes-pic.57623642ff94899c387e.jpg",
     "static/media/close-encounters-screenshot.jpg": "/lindseychoi-portfolio/static/media/close-encounters-screenshot.3a45ac524de378ff1bdc.jpg",
     "static/media/take-a-hike-screenshot.jpg": "/lindseychoi-portfolio/static/media/take-a-hike-screenshot.c4621b117e79ba854c74.jpg",
-    "static/media/Lindsey-Choi-Resume.pdf": "/lindseychoi-portfolio/static/media/Lindsey-Choi-Resume.2018bf70e774cf32b061.pdf",
+    "static/media/lc-resume-2024.pdf": "/lindseychoi-portfolio/static/media/lc-resume-2024.459fc9d19c8ef71b9fef.pdf",
     "static/media/izzy-pic.jpg": "/lindseychoi-portfolio/static/media/izzy-pic.244327fbaeda75e2ab6b.jpg",
     "static/media/weather-tracker-screenshot.jpg": "/lindseychoi-portfolio/static/media/weather-tracker-screenshot.26b127be18d4c98d85e7.jpg",
     "static/media/blog-that-stuff.jpg": "/lindseychoi-portfolio/static/media/blog-that-stuff.adfdecf29af209514056.jpg",
@@ -15,10 +15,10 @@
     "static/media/logo-2023-dark.jpg": "/lindseychoi-portfolio/static/media/logo-2023-dark.8fb01aa81f7830abfe4e.jpg",
     "index.html": "/lindseychoi-portfolio/index.html",
     "main.3f6fed03.css.map": "/lindseychoi-portfolio/static/css/main.3f6fed03.css.map",
-    "main.0cea140a.js.map": "/lindseychoi-portfolio/static/js/main.0cea140a.js.map"
+    "main.54fcc54e.js.map": "/lindseychoi-portfolio/static/js/main.54fcc54e.js.map"
   },
   "entrypoints": [
     "static/css/main.3f6fed03.css",
-    "static/js/main.0cea140a.js"
+    "static/js/main.54fcc54e.js"
   ]
 }
