@@ -5,7 +5,7 @@ import { faDownload } from '@fortawesome/free-solid-svg-icons';
 import React from 'react';
 import logo from '../assets/logo-2023-dark.jpg';
 import { faPaperPlane, faUser } from '@fortawesome/free-regular-svg-icons';
-import Pdf from '../assets/Lindsey-Choi-Resume.pdf';
+import Pdf from '../assets/lc-resume-2024.pdf';
 
 function NavBar({ currentPage, handlePageChange }) {
   const handleDownload = () => {
